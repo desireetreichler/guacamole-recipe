@@ -1,5 +1,5 @@
 * Chop avocadoes
 * Chop onion
 * Squeeze the lime
-* Add salt
+* Add a pinch of salt
 * Mix something
