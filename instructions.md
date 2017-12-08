@@ -2,4 +2,4 @@
 * Chop onion
 * Squeeze the lime
 * Add the pinch of salt
-* Mix something
+* Mix
