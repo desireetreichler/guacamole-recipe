@@ -1,6 +1,6 @@
 # Website for a simple guacamole recipe
 
-By **Désirée Treichler**, May 24, 207
+By **Désirée Treichler**, December 2017
 
 List of [ingredients](ingredients)
 
